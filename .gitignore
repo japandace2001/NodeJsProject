@@ -1,0 +1,36 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore npm-debug.log files
+npm-debug.log
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore .env files
+.env
+
+# Ignore .DS_Store files (Mac specific)
+.DS_Store
+
+# Ignore .vscode directory (Visual Studio Code specific)
+.vscode/
+
+# Ignore .idea directory (IntelliJ IDEA specific)
+.idea/
+
+# Ignore .sveltekit directory (SvelteKit specific)
+.sveltekit/
+
+# Ignore .next directory (Next.js specific)
+.next/
+
+# Ignore .nuxt directory (Nuxt.js specific)
+.nuxt/
+
+# Ignore dist directory (built code)
+dist/
+
+# Ignore coverage directory (code coverage reports)
+coverage/
